@@ -2,5 +2,6 @@
 
 This is backup of my persoanl study activity. Mainly about the following books :
 
-* Algorithms
-* Python itself
+* Data Structures & Algorithms in Python
+* Fluent Python
+* Python for Data Analysis
